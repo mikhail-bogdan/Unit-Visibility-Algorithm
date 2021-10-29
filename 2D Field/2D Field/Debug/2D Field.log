@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Misha\source\repos\2D Field\2D Field\main.cpp(11,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Misha\source\repos\2D Field\2D Field\main.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+  2D Field.vcxproj -> C:\Users\Misha\source\repos\2D Field\Debug\2D Field.exe
